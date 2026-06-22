@@ -13,3 +13,10 @@ sentence-transformers
 langchain-huggingface
 faiss-cpu
 langchain-chroma
+langchain-openai
+langchain-ollama
+beautifulsoup4
+langchain_groq
+langchain_core
+fastapi
+langserve
