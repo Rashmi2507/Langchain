@@ -21,5 +21,5 @@ langchain_core
 fastapi
 langserve
 langchain_community
-langchain
+langchain>=0.2.0
 langchain_huggingface
