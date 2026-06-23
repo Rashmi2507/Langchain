@@ -20,3 +20,6 @@ langchain_groq
 langchain_core
 fastapi
 langserve
+langchain_community
+langchain
+langchain_huggingface
